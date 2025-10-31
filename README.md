@@ -32,7 +32,7 @@ It includes Customer Management, Messaging to Active Customers, Validation, and 
 
 ### 1️⃣ Clone & Install
 ```bash
-git clone <repo-url>
+git clone (https://github.com/Dhyeykhanpara/crm-task.git)
 cd crm-system
 composer install
 npm install && npm run build
